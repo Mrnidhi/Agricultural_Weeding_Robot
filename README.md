@@ -3,7 +3,7 @@
 <li>Weed management is a critical challenge in agriculture, impacting crop yield and quality. Traditional methods, such as manual labor and chemical herbicides, are often inefficient and environmentally harmful. 
 <li>This project addresses this issue by developing an autonomous weeding robot that utilizes machine learning and robotic technologies to effectively detect and remove weeds.
 
-<img width="882" alt="image" src="https://github.com/Mrnidhi/Agricultural_Weeding_Robot/blob/main/Images/Picture4.jpg">
+<img width="500" alt="image" src="https://github.com/Mrnidhi/Agricultural_Weeding_Robot/blob/main/Images/Picture4.jpg">
 
 
 METHODOLOGY
